@@ -24,7 +24,7 @@ main:
   - title: "Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction"
     authors: Haolin Song, Hongbo Zhu, Tao Yu, Yan Liu, <strong>Mingqi Yuan</strong>, Wengang Zhou, Hua Chen, Houqiang Li
     conference_short: RA-L
-    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2512.07464
     code: https://ga-phl.github.io/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
