@@ -10,6 +10,17 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/pvp.png
+  
+  - title: "Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning"
+    authors: Qi Wang, Mian Wu, Yuyang Zhang, <strong>Mingqi Yuan</strong>, Wenyao Zhang, Haoxiang You, Yunbo Wang, Xin Jin, Xiaokang Yang, Wenjun Zeng
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2512.00961
+    code: https://qiwang067.github.io/genreward
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/goal.png
 
   - title: "Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction"
     authors: Haolin Song, Hongbo Zhu, Tao Yu, Yan Liu, <strong>Mingqi Yuan</strong>, Wengang Zhou, Hua Chen, Houqiang Li
