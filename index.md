@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Postdoctoral Researcher at the [Agentic Intelligence Lab](https://agentic-intelligence-lab.org/), The University of Hong Kong (HKU). I received my PhD degree from The Hong Kong Polytechnic University (HKPU), supervised by [Prof. Wenjun Zeng](https://scholar.google.com/citations?user=_cUfvYQAAAAJ) and [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). In 2024, I was a visiting scholar at the [Bio-Inspired Robotics Laboratory](https://birlab.org/), The University of Cambridge, working under [Prof. Fumiya Iida](https://birlab.org/).
+I'm a Post-doctoral Fellow at the [Agentic Intelligence Lab](https://agentic-intelligence-lab.org/), The University of Hong Kong (HKU). I received my PhD degree from The Hong Kong Polytechnic University (HKPU), supervised by [Prof. Wenjun Zeng](https://scholar.google.com/citations?user=_cUfvYQAAAAJ) and [Prof. Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/). In 2024, I was a visiting scholar at the [Bio-Inspired Robotics Laboratory](https://birlab.org/), The University of Cambridge, working under [Prof. Fumiya Iida](https://birlab.org/).
 
 My research career is also complemented by research experiences at leading industrial research hubs, covering intelligent robotics and intelligent system research fields across [LimX Dynamics](https://limxdynamics.com/) (2025), [Tencent Robotics X Lab](https://roboticsx.tencent.com/) (2022), and [JD.com, Inc.](https://ir.jd.com/) (2019).
 
