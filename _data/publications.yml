@@ -21,6 +21,16 @@ main:
     image: ./assets/img/bfm.png
     # notes: Early Accept
   
+  - title: "Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction"
+    authors: Haolin Song, Hongbo Zhu, Tao Yu, Yan Liu, <strong>Mingqi Yuan</strong>, Wengang Zhou, Hua Chen, Houqiang Li
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2512.07464
+    code: https://ga-phl.github.io/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/gait.png
+    # notes: Early Accept
+  
   - title: "ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning"
     authors: <strong>Mingqi Yuan</strong>, Bo Li, Xin Jin, Wenjun Zeng
     conference_short: ICCV

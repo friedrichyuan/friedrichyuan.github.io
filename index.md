@@ -42,11 +42,12 @@ My research career is also complemented by research experiences at leading indus
 
 ## Services
 ### Student Mentoring
-- Jiarun Zhu, PhD student at SJTU, 2026 - present
-- Caihao Sun, PhD student at HKU, 2026 - present
+- Xiaoquan Sun, Master student at HUST, 2026 - present
 - Yijun Hong, Undergraduate student at SUSTech, 2026 - present
-- Qijun He, Undergraduate student at SUSTech, 2026 - present
-- Yuxuan Li, Undergraduate student at ZJU, 2026 - present
+- Jiarun Zhu, Undergraduate student at SUSTech, 2026 - present
+- Qijun He, Undergraduate student at SUSTech, 2025 - present
+- Caihao Sun, PhD student at HKU, 2025
+- Yuxuan Li, Undergraduate student at ZJU, 2025
 
 ### Reviewer
 - International Journal of Computer Vision (IJCV)
