@@ -11,16 +11,6 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/pvp.png
 
-  - title: "A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots"
-    authors: <strong>Mingqi Yuan</strong>, Tao Yu, Wenqi Ge, Xiuyong Yao, Huijiang Wang, Jiayu Chen, Bo Li, Wei Zhang, Wenjun Zeng, Hua Chen, Xin Jin
-    conference_short: TPAMI
-    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2506.20487
-    code: https://github.com/friedrichyuan/awesome-bfm-papers
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/bfm.png
-    # notes: Early Accept
-  
   - title: "Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction"
     authors: Haolin Song, Hongbo Zhu, Tao Yu, Yan Liu, <strong>Mingqi Yuan</strong>, Wengang Zhou, Hua Chen, Houqiang Li
     conference_short: RA-L
@@ -29,6 +19,16 @@ main:
     code: https://ga-phl.github.io/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/gait.png
+    # notes: Early Accept
+
+  - title: "A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots"
+    authors: <strong>Mingqi Yuan</strong>, Tao Yu, Wenqi Ge, Xiuyong Yao, Huijiang Wang, Jiayu Chen, Bo Li, Wei Zhang, Wenjun Zeng, Hua Chen, Xin Jin
+    conference_short: TPAMI
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2506.20487
+    code: https://github.com/friedrichyuan/awesome-bfm-papers
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/bfm.png
     # notes: Early Accept
   
   - title: "ULTHO: Ultra-Lightweight yet Efficient Hyperparameter Optimization in Deep Reinforcement Learning"
