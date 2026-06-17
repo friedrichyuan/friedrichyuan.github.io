@@ -17,6 +17,7 @@ My research career is also complemented by research experiences at leading indus
 
 ## News
 
+- **[Jul, 2026]** One paper accepted by IROS2026!
 - **[Feb, 2026]** Two papers accepted by CVPR2026!
 - **[Jan, 2026]** One paper accepted by IEEE RA-L!
 - **[Dec, 2025]** One paper accepted by IEEE TPAMI!
